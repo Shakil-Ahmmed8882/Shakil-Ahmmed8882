@@ -20,7 +20,7 @@ I remain open to others' perspective,and their feedback. My vision extends beyon
 
 
 ##  Work I do 
-My work involves creating engaging websites with responsive design and interactive functionalities using front-end technologies like HTML, CSS, JavaScript, and ReactJS. Additionally, I develop server-side logic and manage databases using Node.js/Express and MongoDB, enabling seamless communication between different parts of web applications.
+My work involves creating engaging websites with responsive design and interactive functionalities using front-end technologies like HTML, CSS, JavaScript, and ReactJS. Additionally, I develop server-side logic and manage databases using Express and MongoDB, enabling seamless communication between different parts of web applications.
 
 ## Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shakil-Ahmmed8882)](https://git.io/streak-stats)
