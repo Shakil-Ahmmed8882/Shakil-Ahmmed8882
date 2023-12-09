@@ -6,7 +6,7 @@ Someone who actively seeking opportunities to present his skills, and to gather 
 I remain open to others' perspective,and their feedback. My vision extends beyond coding it's about collaborating with a dynamic team, learning together, and translating ideas into functional realities.
 ### Languages and Tools:
 
-<p align="center">
+<p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
