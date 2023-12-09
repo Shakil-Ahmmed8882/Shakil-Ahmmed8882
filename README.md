@@ -1,9 +1,10 @@
 
-//[![Banner](https://miro.medium.com/v2/resize:fit:820/1*u9SErkJQxf9ChoG_R_xprw.jpeg)](https://github.com/shakilahmmed21)
-# 👋 Hello, I'm Shakil Ahmed!
-
+[![Banner](https://i.ibb.co/4NWTgwN/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)](https://github.com/shakilahmmed21)
 ## About Me
-I am a passionate developer from Bangladesh, residing in Doctor Graham. Over the past 8-9 months, I've been diving deep into the world of web development, focusing on technologies like **HTML**, **CSS**, **JavaScript**, **React**, and **MongoDB**. Despite my relatively shorter time in this field, I've gained valuable experience and developed a strong foundation in these technologies.
+I love turning thoughts into code.I am extremely curious person.
+Someone who actively seeking opportunities to present his skills, and to gather more experiences working with professionals.
+I remain open to others' perspective,and their feedback. My vision extends beyond coding it's about collaborating with a dynamic team, learning together, and translating ideas into functional realities.
+
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript
