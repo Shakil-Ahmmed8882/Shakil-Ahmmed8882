@@ -19,29 +19,8 @@ I remain open to others' perspective,and their feedback. My vision extends beyon
 </p>
 
 
-
 ##  Work I do 
-
-I bring digital ideas to life by weaving together captivating user interfaces and robust functionalities. Here's what I specialize in:
-
-### Front-End 
-
-Crafting enchanting user experiences using:
-
-- **ReactJS**: Building interactive and scalable components for immersive interfaces.
-- **HTML/CSS/JavaScript**: Weaving magic with clean structures, styling, and dynamic behaviors.
-- **Responsive Design**: Ensuring spells work seamlessly across all devices.
-
-### Back-End 
-
-Forging powerful back-end solutions with:
-
-- **Node.js/Express**: Crafting server-side sorcery and managing APIs.
-- **MongoDB**: Concocting potent databases for storing enchanted data.
-- **RESTful APIs**: Spellbinding communication between front-end and back-end.
-
-Let's cast spells together! Feel free to reach out for brewing some digital magic or discussing spells of web development! 🪄
-
+My work involves creating engaging websites with responsive design and interactive functionalities using front-end technologies like HTML, CSS, JavaScript, and ReactJS. Additionally, I develop server-side logic and manage databases using Node.js/Express and MongoDB, enabling seamless communication between different parts of web applications.
 
 ## Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shakil-Ahmmed8882)](https://git.io/streak-stats)
