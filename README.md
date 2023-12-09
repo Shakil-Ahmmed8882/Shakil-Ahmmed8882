@@ -6,10 +6,14 @@ Someone who actively seeking opportunities to present his skills, and to gather 
 I remain open to others' perspective,and their feedback. My vision extends beyond coding it's about collaborating with a dynamic team, learning together, and translating ideas into functional realities.
 
 
+
+
 ## Skills
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks/Library:** React
 - **Databases:** MongoDB
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shakil-Ahmmed8882)](https://git.io/streak-stats)
 
 ## Experience
 I have dedicated myself to learning and applying my skills through personal projects and hands-on experience. My journey has been about continuous learning, exploring, and building applications that utilize these technologies.
