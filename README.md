@@ -6,7 +6,7 @@ Someone who actively seeking opportunities to present his skills, and to gather 
 I remain open to others' perspective,and their feedback. My vision extends beyond coding it's about collaborating with a dynamic team, learning together, and translating ideas into functional realities.
 ### Languages and Tools:
 
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -17,6 +17,30 @@ I remain open to others' perspective,and their feedback. My vision extends beyon
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/></a>
 </p>
+
+
+
+## 🌟 Creating Digital Magic ✨
+
+I bring digital ideas to life by weaving together captivating user interfaces and robust functionalities. Here's what I specialize in:
+
+### Front-End 
+
+Crafting enchanting user experiences using:
+
+- **ReactJS**: Building interactive and scalable components for immersive interfaces.
+- **HTML/CSS/JavaScript**: Weaving magic with clean structures, styling, and dynamic behaviors.
+- **Responsive Design**: Ensuring spells work seamlessly across all devices.
+
+### Back-End 
+
+Forging powerful back-end solutions with:
+
+- **Node.js/Express**: Crafting server-side sorcery and managing APIs.
+- **MongoDB**: Concocting potent databases for storing enchanted data.
+- **RESTful APIs**: Spellbinding communication between front-end and back-end.
+
+Let's cast spells together! Feel free to reach out for brewing some digital magic or discussing spells of web development! 🪄
 
 
 ## Streaks
