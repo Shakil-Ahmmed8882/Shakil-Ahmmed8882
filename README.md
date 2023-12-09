@@ -1,5 +1,5 @@
 
-[![Banner](https://miro.medium.com/v2/resize:fit:820/1*u9SErkJQxf9ChoG_R_xprw.jpeg)](https://github.com/shakilahmmed21)
+//[![Banner](https://miro.medium.com/v2/resize:fit:820/1*u9SErkJQxf9ChoG_R_xprw.jpeg)](https://github.com/shakilahmmed21)
 # 👋 Hello, I'm Shakil Ahmed!
 
 ## About Me
