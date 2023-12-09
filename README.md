@@ -20,7 +20,7 @@ I remain open to others' perspective,and their feedback. My vision extends beyon
 
 
 
-## 🌟 Creating Digital Magic ✨
+##  Work I do 
 
 I bring digital ideas to life by weaving together captivating user interfaces and robust functionalities. Here's what I specialize in:
 
