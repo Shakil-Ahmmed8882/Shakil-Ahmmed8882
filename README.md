@@ -1,6 +1,4 @@
-
-[![Banner](https://i.ibb.co/Nm8xLDF/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png)](https://github.com/shakilahmmed21)
-
+<img src="https://i.ibb.co/Nm8xLDF/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="Banner" style="width:100%">
 ## About Me
 I love turning thoughts into code.I am extremely curious person.
 Someone who actively seeking opportunities to present his skills, and to gather more experiences working with professionals.
