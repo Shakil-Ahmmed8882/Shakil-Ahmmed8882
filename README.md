@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co/Nm8xLDF/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="Banner" style="width:100%">
-## About Me
+##  About Me
 I love turning thoughts into code.I am extremely curious person.
 Someone who actively seeking opportunities to present his skills, and to gather more experiences working with professionals.
 I remain open to others' perspective,and their feedback. My vision extends beyond coding it's about collaborating with a dynamic team, learning together, and translating ideas into functional realities.
