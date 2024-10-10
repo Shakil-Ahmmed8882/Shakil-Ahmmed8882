@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/Nm8xLDF/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="Banner" style="width:100%">
+<img src="https://i.ibb.co.com/r78Q32z/gitprofile.jpg" alt="Banner" style="width:100%">
 
 ##  About me 
 
