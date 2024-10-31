@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/84KTK2J/gitcover.png" alt="Banner" style="width:100%">
+<img src="https://i.ibb.co.com/r78Q32z/gitprofile.jpg" alt="Banner" style="width:100%">
 
 ##  About me 
 
