@@ -2,10 +2,9 @@
 
 ##  About me 
 
-I love turning thoughts into code. I am an extremely curious person.
-Someone who actively seeks opportunities to present his skills, and to gather more experiences working with professionals.
-I remain open to others' perspectives and feedback. My vision extends beyond coding; it's about collaborating with a dynamic team, learning together, and translating ideas into functional realities.
-
+I am an extremely curious person. I do question the why behind everything —  time, consciousness, existence, psychology, energy vibration & God. 
+I Think in visual metaphors, shapes, and symbolic systems, I love drawing, breaking things down, Visualizing stuff in shapes & patters.
+I respect humans and skip who are not. I believe in cooporation instead competition. I am really crazy to invest in myself buying courses, workshop/Seminars, joining people, Taking mentorship. 
 
 
 ##  Work I do 
