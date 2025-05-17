@@ -2,13 +2,12 @@
 
 ##  About me 
 
-I am an extremely curious person. I do question the why behind everything —  time, consciousness, existence, psychology, energy vibration & God. 
-I Think in visual metaphors, shapes, and symbolic systems, I love drawing, breaking things down, Visualizing stuff in shapes & patters.
-I respect humans and skip who are not. I believe in cooporation instead competition. I am really crazy to invest in myself buying courses, workshop/Seminars, joining people, Taking mentorship. 
+I am an extremely curious person. I do question the why behind everything —  time, consciousness, existence, psychology, energy vibration even God. I Think in visual metaphors, shapes, and symbolic systems, I love drawing, breaking things down, Visualizing stuff in shapes & patters.
+I respect humans and skip who are not. I believe in cooperation over competition. I am really crazy to invest in myself through courses, workshops, seminars, communities, mentorship. Thanks. 
 
 
 ##  Work I do 
-My work involves creating engaging websites with responsive design and interactive functionalities using front-end technologies like HTML, CSS, JavaScript, and ReactJS. Additionally, I develop server-side logic and manage databases using Express and MongoDB, enabling seamless communication between different parts of web applications.
+My work involves creating engaging websites with responsive design and interactive functionalities using front-end technologies like HTML, CSS, JavaScript, and ReactJS. Additionally, I develop server-side logic and manage databases using Express and MongoDB, enabling seamless communication between different parts of web applications. I belive in law of universe therefore i love being around poeple with high energy. 
 
 
 
