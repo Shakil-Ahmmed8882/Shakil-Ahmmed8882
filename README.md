@@ -2,7 +2,7 @@
 
 ##  About me 
 
-I am an extremely curious person. I do question the why behind everything —  time, consciousness, existence, psychology, energy vibration even God. I Think in visual metaphors, shapes, and symbolic systems, I love drawing, breaking things down, Visualizing stuff in shapes & patters.
+I am an extremely curious person. I do question the why behind everything - time, consciousness, existence, psychology, energy vibration even God. I Think in visual metaphors, shapes, and symbolic systems, I love drawing, breaking things down, Visualizing stuff in shapes & patters.
 I respect humans and skip who are not. I believe in cooperation over competition. I am really crazy to invest in myself through courses, workshops, seminars, communities, mentorship. Thanks. 
 
 
