@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/X7cZJXY/github-banner.png" alt="Banner" style="width:100%">
+<img src="https://i.ibb.co/WNkLJchW/Chat-GPT-Image-Jun-30-2026-02-40-57-AM.png" alt="Banner" style="width:100%">
 
 ##  About 
 Web developer with 3+ years of production experience across GKC IT, Radian IT & CloudGen.
