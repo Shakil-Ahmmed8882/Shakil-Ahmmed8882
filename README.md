@@ -1,7 +1,5 @@
 <!-- BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Shakil%20Ahmmed&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI-powered%20Full-Stack%20Developer%20%E2%80%94%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descAlignY=60&descSize=16" alt="banner" />
-</p>
+<img src="https://i.ibb.co/CSN56Db/banner-1.png" alt="Banner" style="width:100%">
 
 <p align="center">
   <a href="https://shakil8882-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
